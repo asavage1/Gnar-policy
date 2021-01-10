@@ -1,3 +1,3 @@
 # The Savage Bear Privacy Policy
 
-PP Content
+[HOME](https://asavage1.github.io/Gnar-policy/)
