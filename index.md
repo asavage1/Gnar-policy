@@ -1,3 +1,3 @@
 # Savage Bear Privacy Policy
 
-content
+changed content
