@@ -1,3 +1,3 @@
 # The Savage Bear Terms of Service
 
-TOS content
+[HOME](https://asavage1.github.io/Gnar-policy/)
